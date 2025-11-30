@@ -1,5 +1,5 @@
 # Hubba Bubba
-My Platformer, made in Python with love and Pygame-ce.
+My Platformer, made in Python with Pygame-ce and love.
 
 ## Titlescreen
 <div>
@@ -8,7 +8,7 @@ My Platformer, made in Python with love and Pygame-ce.
   </p>
 </div>
 
-## First Level
+## In-Game
 <div>
   <p>
     <a><img src="https://raw.githubusercontent.com/dasvegy/HubbaBubba/refs/heads/main/assets/img/Screenshots/ingame.png" width="720" height="1280" alt="Titlescreen" /></a>
