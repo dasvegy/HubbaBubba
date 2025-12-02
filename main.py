@@ -7,7 +7,7 @@ import csv
 import button
 from pypresence import Presence
 
-discord_richpicture = False
+discord_richpicture = True
 music_on_off = False
 
 if discord_richpicture == True:
@@ -969,3 +969,4 @@ while run:
     pygame.display.update()
 
 pygame.quit()
+
